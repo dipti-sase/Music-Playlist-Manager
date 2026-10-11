@@ -537,3 +537,627 @@ int main() {
     return 0;
 }
 
+//OUTPUT
+PS C:\MusicPlaylistManager>                                            .\playlist.exe
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 1
+
+Enter Song Title: Faded
+Enter Artist Name: Alan Walker
+
+Song added successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+========== PLAYLIST ==========
+1. Faded - Alan Walker <-- CURRENT
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 1
+
+Enter Song Title: Believer
+Enter Artist Name: Imagine Dragons
+
+Song added successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+========== PLAYLIST ==========
+1. Faded - Alan Walker <-- CURRENT
+2. Believer - Imagine Dragons
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 6
+
+Next Song: Believer - Imagine Dragons
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 7
+
+Previous Song: Faded - Alan Walker
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 4
+
+====== REVERSE PLAYLIST ======
+1. Believer - Imagine Dragons
+2. Faded - Alan Walker <-- CURRENT
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 2
+
+Enter Song Title to Delete: 3
+
+Song not found!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 10
+
+Current Song: Faded - Alan Walker
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 5
+
+Now Playing: Faded - Alan Walker
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 6
+
+Next Song: Believer - Imagine Dragons
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 7
+
+Previous Song: Faded - Alan Walker
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 1
+
+Enter Song Title: Perfect
+Enter Artist Name: Ed Sheeran
+
+Song added successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+========== PLAYLIST ==========
+1. Faded - Alan Walker <-- CURRENT
+2. Believer - Imagine Dragons
+3. Perfect - Ed Sheeran
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 8
+
+====== PLAYING COMPLETE PLAYLIST ======
+Playing: Faded - Alan Walker
+Playing: Believer - Imagine Dragons
+Playing: Perfect - Ed Sheeran
+=======================================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 9
+
+Enter number of repetitions: 2
+
+Repetition 1:
+Playing: Faded - Alan Walker
+Playing: Believer - Imagine Dragons
+Playing: Perfect - Ed Sheeran
+
+Repetition 2:
+Playing: Faded - Alan Walker
+Playing: Believer - Imagine Dragons
+Playing: Perfect - Ed Sheeran
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 2
+
+Enter Song Title to Delete: Faded
+
+Song deleted successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+========== PLAYLIST ==========
+1. Believer - Imagine Dragons
+2. Perfect - Ed Sheeran <-- CURRENT
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 2
+
+Enter Song Title to Delete: Perfect
+
+Song deleted successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+========== PLAYLIST ==========
+1. Believer - Imagine Dragons <-- CURRENT
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 2
+
+Enter Song Title to Delete: Believer
+
+Song deleted successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 1
+
+Enter Song Title: Faded
+Enter Artist Name: Alan Walker
+
+Song added successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+========== PLAYLIST ==========
+1. Faded - Alan Walker <-- CURRENT
+==============================
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 6
+
+Already at the last song!
+No next song available.
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 7
+
+Already at the first song!
+No previous song available.
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 2
+
+Enter Song Title to Delete: Faded
+
+Song deleted successfully!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 3
+
+Playlist is empty!
+
+
+========================================
+       MUSIC PLAYLIST MANAGER
+========================================
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+========================================
+Enter your choice: 11
+
+Exiting Music Playlist Manager...
+Thank you!
+PS C:\MusicPlaylistManager> 
+
+
+
+
